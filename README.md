@@ -30,3 +30,5 @@ Gympass
 - [] Os dados da aplicação precisam estar persistidos em um banco PostegreSQL;
 - [] Todas listas de dados precisam estar paginandas com 20 itens por página;
 - [] O usuário deve ser identificado por um JWT(JSON Web Token )
+
+onde parei -
