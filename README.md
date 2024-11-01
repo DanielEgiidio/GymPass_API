@@ -7,8 +7,8 @@ Gympass
 - [x] Deve ser possível se cadastrar;
 - [x] Deve ser possível se autenticar;
 - [x] Deve ser possível obter o perfil de um usuáruio logado;
-- [] Deve ser possível obter o número de check-ins realizados pelo usuário logado;
-- [] Deve ser possível o usuário obter seu histórico de check-ins;
+- [x] Deve ser possível obter o número de check-ins realizados pelo usuário logado;
+- [x] Deve ser possível o usuário obter seu histórico de check-ins;
 - [] Deve ser possível o usuáriobuscar academias próximas;
 - [] Deve ser possível o usuário buscar academias pelo nome;
 - [x] Deve ser possível o usuário realizar check-in em uma academia;
@@ -28,7 +28,7 @@ Gympass
 
 - [x] A senha do usuário precisa está criptografada
 - [x] Os dados da aplicação precisam estar persistidos em um banco PostegreSQL;
-- [] Todas listas de dados precisam estar paginandas com 20 itens por página;
+- [x] Todas listas de dados precisam estar paginandas com 20 itens por página;
 - [] O usuário deve ser identificado por um JWT(JSON Web Token )
 
 //TDD
